@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267291827512",
+    "firebase_url": "https://demogetphone.firebaseio.com",
+    "project_id": "demogetphone",
+    "storage_bucket": "demogetphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267291827512:android:7b5b8ac34669d5c25a75cd",
+        "android_client_info": {
+          "package_name": "com.example.demogetphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267291827512-n50p58bbk9oqrkeuut3nlennm9vmrt26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demogetphone",
+            "certificate_hash": "d4791c335b2ba06cb45c644ec63b0ba17089235f"
+          }
+        },
+        {
+          "client_id": "267291827512-jjs4hj8v74d3pgk8g057k5sos5364bth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVn5sWAnSr6cTSuKID1mDYiLFpjyzejRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267291827512-jjs4hj8v74d3pgk8g057k5sos5364bth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
